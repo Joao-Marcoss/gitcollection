@@ -8,7 +8,6 @@ import { api } from "../../services/api";
 import logo from "../../img/logo (1).svg";
 
 import * as C from "./styles";
-import { RepoInfo } from "./styles";
 
 interface GithubRepository {
   full_name: string;
